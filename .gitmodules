@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = git@github.com:rajamobiletech/NewsReader-shell.git
